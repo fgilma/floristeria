@@ -1,0 +1,74 @@
+﻿<Window x:Class="Floristeria2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Floristeria2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <!--definimos 1 fila para tituto y otra para formulario-->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="75"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <!--titulo-->
+        <StackPanel Grid.Row="0">
+            <TextBlock Text="Formulario Floristería" Margin="15" FontFamily="Georgia" FontStyle="Italic" FontSize="35" TextAlignment="Center" Height="60"></TextBlock>
+        </StackPanel>
+
+        <StackPanel Margin="0,74,-0.4,1" Grid.RowSpan="3">
+            <!--Crear Floristeria-->
+            <TextBlock Text="Crear Floristería:" FontWeight="ExtraBlack" FontSize="16" Margin="120,0,0,0" HorizontalAlignment="Left"></TextBlock>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Label Content="Nombre" Width="65" Height="24"></Label>
+                <TextBox Name="nombreFloristeria" Width="400" Height="20"></TextBox>
+                <Button Content="Añadir" Margin="10"  RenderTransformOrigin="0.5,0.5" Height="20" Width="66" FontSize="10" Click="clickFloristeria"/>
+            </StackPanel>
+
+            <!--Añadir flores-->
+            <TextBlock Text="Flores:" FontWeight="ExtraBlack" Margin="120,10,0,0" FontSize="16"></TextBlock>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Label Content="Nombre" Width="65" Height="24"></Label>
+                <TextBox Name="nombreFlor" Width="150" Height="20" ></TextBox>
+                <Label Content="Color" Width="40" Height="24" HorizontalAlignment="Right" Margin="8,0,0,0"></Label>
+                <TextBox Name="colorFlor" Width="75" Height="20" ></TextBox>
+                <Label Content="Precio" Width="45" Height="24" Margin="6,0,0,0"></Label>
+                <TextBox Name="precioFlor" Width="75" Height="20" ></TextBox>
+                <Button Content="Añadir" Margin="10"  Height="20" Width="66" Click="ClickFlower"></Button>
+            </StackPanel>
+            <!--Añadir arboles-->
+            <TextBlock Text="Árboles:" FontWeight="ExtraBlack" Margin="120,10,0,0" FontSize="16"></TextBlock>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Label Content="Nombre" Height="24" Width="65"></Label>
+                <TextBox Name="nombreArbol" Width="150" Height="20" ></TextBox>
+                <Label Content="Altura" Width="45" Height="24" Margin="5,0,0,0"></Label>
+                <TextBox Name="alturaArbol" Width="75" Height="20" ></TextBox>
+                <Label Content="Precio" Width="45" Height="24" Margin="5,0,0,0"></Label>
+                <TextBox Name="precioArbol" Width="75
+                                 " Height="20" ></TextBox>
+                <Button Content="Añadir" Margin="10"  Width="66" Height="20" Click="ClickTree"></Button>
+            </StackPanel>
+
+            <!--Añadir decoracion-->
+            <TextBlock Text="Decoración:" FontWeight="ExtraBlack" Margin="120,9,0,0" FontSize="16"></TextBlock>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Label Content="Nombre" Width="65" Height="24"/>
+                <TextBox Name="nombreDecoracion" Width="150" Height="20" />
+                <RadioButton Name="materialDecoracion" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="5,15,0,0">
+                    <TextBlock Text="Madera"></TextBlock>
+                </RadioButton>
+                <RadioButton Name="materialDecoracion2" Margin="5,15,0,0" >
+                    <TextBlock Text="Plástico"></TextBlock>
+                </RadioButton>
+                <Label Content="Precio" Width="45" Height="24" Margin="5,0,0,0"/>
+                <TextBox Name="precioDecoracion" Width="75
+                                 " Height="20" ></TextBox>
+                <Button Content="Añadir" Margin="10"  Width="66" Height="20" Click="ClickDecor"></Button>
+            </StackPanel>
+            <Button Content="Ver stock" Height="37" Margin="250,15,250,0" Click="OpenWindowStock"/>
+
+        </StackPanel>
+    </Grid>
+</Window>

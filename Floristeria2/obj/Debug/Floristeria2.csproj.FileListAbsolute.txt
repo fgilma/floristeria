@@ -1,0 +1,68 @@
+C:\Users\franc\source\repos\Floristeria2\Floristeria2\bin\Debug\Floristeria2.exe.config
+C:\Users\franc\source\repos\Floristeria2\Floristeria2\bin\Debug\Floristeria2.exe
+C:\Users\franc\source\repos\Floristeria2\Floristeria2\bin\Debug\Floristeria2.pdb
+C:\Users\franc\source\repos\Floristeria2\Floristeria2\obj\Debug\MainWindow.g.cs
+C:\Users\franc\source\repos\Floristeria2\Floristeria2\obj\Debug\WindowStock.g.cs
+C:\Users\franc\source\repos\Floristeria2\Floristeria2\obj\Debug\App.g.cs
+C:\Users\franc\source\repos\Floristeria2\Floristeria2\obj\Debug\Floristeria2_MarkupCompile.cache
+C:\Users\franc\source\repos\Floristeria2\Floristeria2\obj\Debug\Floristeria2_MarkupCompile.lref
+C:\Users\franc\source\repos\Floristeria2\Floristeria2\obj\Debug\MainWindow.baml
+C:\Users\franc\source\repos\Floristeria2\Floristeria2\obj\Debug\WindowStock.baml
+C:\Users\franc\source\repos\Floristeria2\Floristeria2\obj\Debug\Floristeria2.g.resources
+C:\Users\franc\source\repos\Floristeria2\Floristeria2\obj\Debug\Floristeria2.Properties.Resources.resources
+C:\Users\franc\source\repos\Floristeria2\Floristeria2\obj\Debug\Floristeria2.csproj.GenerateResource.cache
+C:\Users\franc\source\repos\Floristeria2\Floristeria2\obj\Debug\Floristeria2.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Floristeria2\Floristeria2\obj\Debug\Floristeria2.exe
+C:\Users\franc\source\repos\Floristeria2\Floristeria2\obj\Debug\Floristeria2.pdb
+C:\Users\franc\source\repos\Floristeria2\Floristeria2\obj\Debug\Floristeria2.csprojAssemblyReference.cache
+C:\Users\Marc\Desktop\copia_proyecto_git\Ex_floristeria\Floristeria2\bin\Debug\Floristeria2.exe.config
+C:\Users\Marc\Desktop\copia_proyecto_git\Ex_floristeria\Floristeria2\bin\Debug\Floristeria2.exe
+C:\Users\Marc\Desktop\copia_proyecto_git\Ex_floristeria\Floristeria2\bin\Debug\Floristeria2.pdb
+C:\Users\Marc\Desktop\copia_proyecto_git\Ex_floristeria\Floristeria2\obj\Debug\Floristeria2.csprojAssemblyReference.cache
+C:\Users\Marc\Desktop\copia_proyecto_git\Ex_floristeria\Floristeria2\obj\Debug\MainWindow.g.cs
+C:\Users\Marc\Desktop\copia_proyecto_git\Ex_floristeria\Floristeria2\obj\Debug\WindowStock.g.cs
+C:\Users\Marc\Desktop\copia_proyecto_git\Ex_floristeria\Floristeria2\obj\Debug\App.g.cs
+C:\Users\Marc\Desktop\copia_proyecto_git\Ex_floristeria\Floristeria2\obj\Debug\Floristeria2_MarkupCompile.cache
+C:\Users\Marc\Desktop\copia_proyecto_git\Ex_floristeria\Floristeria2\obj\Debug\Floristeria2_MarkupCompile.lref
+C:\Users\Marc\Desktop\copia_proyecto_git\Ex_floristeria\Floristeria2\obj\Debug\MainWindow.baml
+C:\Users\Marc\Desktop\copia_proyecto_git\Ex_floristeria\Floristeria2\obj\Debug\WindowStock.baml
+C:\Users\Marc\Desktop\copia_proyecto_git\Ex_floristeria\Floristeria2\obj\Debug\Floristeria2.g.resources
+C:\Users\Marc\Desktop\copia_proyecto_git\Ex_floristeria\Floristeria2\obj\Debug\Floristeria2.Properties.Resources.resources
+C:\Users\Marc\Desktop\copia_proyecto_git\Ex_floristeria\Floristeria2\obj\Debug\Floristeria2.csproj.GenerateResource.cache
+C:\Users\Marc\Desktop\copia_proyecto_git\Ex_floristeria\Floristeria2\obj\Debug\Floristeria2.csproj.CoreCompileInputs.cache
+C:\Users\Marc\Desktop\copia_proyecto_git\Ex_floristeria\Floristeria2\obj\Debug\Floristeria2.exe
+C:\Users\Marc\Desktop\copia_proyecto_git\Ex_floristeria\Floristeria2\obj\Debug\Floristeria2.pdb
+C:\Users\franc\Desktop\IT Academy\Floristeria\Floristeria2\bin\Debug\Floristeria2.exe.config
+C:\Users\franc\Desktop\IT Academy\Floristeria\Floristeria2\bin\Debug\Floristeria2.exe
+C:\Users\franc\Desktop\IT Academy\Floristeria\Floristeria2\bin\Debug\Floristeria2.pdb
+C:\Users\franc\Desktop\IT Academy\Floristeria\Floristeria2\obj\Debug\Floristeria2.csprojAssemblyReference.cache
+C:\Users\franc\Desktop\IT Academy\Floristeria\Floristeria2\obj\Debug\MainWindow.g.cs
+C:\Users\franc\Desktop\IT Academy\Floristeria\Floristeria2\obj\Debug\WindowStock.g.cs
+C:\Users\franc\Desktop\IT Academy\Floristeria\Floristeria2\obj\Debug\App.g.cs
+C:\Users\franc\Desktop\IT Academy\Floristeria\Floristeria2\obj\Debug\Floristeria2_MarkupCompile.cache
+C:\Users\franc\Desktop\IT Academy\Floristeria\Floristeria2\obj\Debug\Floristeria2_MarkupCompile.lref
+C:\Users\franc\Desktop\IT Academy\Floristeria\Floristeria2\obj\Debug\MainWindow.baml
+C:\Users\franc\Desktop\IT Academy\Floristeria\Floristeria2\obj\Debug\WindowStock.baml
+C:\Users\franc\Desktop\IT Academy\Floristeria\Floristeria2\obj\Debug\Floristeria2.g.resources
+C:\Users\franc\Desktop\IT Academy\Floristeria\Floristeria2\obj\Debug\Floristeria2.Properties.Resources.resources
+C:\Users\franc\Desktop\IT Academy\Floristeria\Floristeria2\obj\Debug\Floristeria2.csproj.GenerateResource.cache
+C:\Users\franc\Desktop\IT Academy\Floristeria\Floristeria2\obj\Debug\Floristeria2.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\IT Academy\Floristeria\Floristeria2\obj\Debug\Floristeria2.exe
+C:\Users\franc\Desktop\IT Academy\Floristeria\Floristeria2\obj\Debug\Floristeria2.pdb
+C:\Users\franc\Desktop\IT Academy\FloristeriaAntiguo\Floristeria2\bin\Debug\Floristeria2.exe.config
+C:\Users\franc\Desktop\IT Academy\FloristeriaAntiguo\Floristeria2\bin\Debug\Floristeria2.exe
+C:\Users\franc\Desktop\IT Academy\FloristeriaAntiguo\Floristeria2\bin\Debug\Floristeria2.pdb
+C:\Users\franc\Desktop\IT Academy\FloristeriaAntiguo\Floristeria2\obj\Debug\Floristeria2.csprojAssemblyReference.cache
+C:\Users\franc\Desktop\IT Academy\FloristeriaAntiguo\Floristeria2\obj\Debug\MainWindow.g.cs
+C:\Users\franc\Desktop\IT Academy\FloristeriaAntiguo\Floristeria2\obj\Debug\WindowStock.g.cs
+C:\Users\franc\Desktop\IT Academy\FloristeriaAntiguo\Floristeria2\obj\Debug\App.g.cs
+C:\Users\franc\Desktop\IT Academy\FloristeriaAntiguo\Floristeria2\obj\Debug\Floristeria2_MarkupCompile.cache
+C:\Users\franc\Desktop\IT Academy\FloristeriaAntiguo\Floristeria2\obj\Debug\Floristeria2_MarkupCompile.lref
+C:\Users\franc\Desktop\IT Academy\FloristeriaAntiguo\Floristeria2\obj\Debug\MainWindow.baml
+C:\Users\franc\Desktop\IT Academy\FloristeriaAntiguo\Floristeria2\obj\Debug\WindowStock.baml
+C:\Users\franc\Desktop\IT Academy\FloristeriaAntiguo\Floristeria2\obj\Debug\Floristeria2.g.resources
+C:\Users\franc\Desktop\IT Academy\FloristeriaAntiguo\Floristeria2\obj\Debug\Floristeria2.Properties.Resources.resources
+C:\Users\franc\Desktop\IT Academy\FloristeriaAntiguo\Floristeria2\obj\Debug\Floristeria2.csproj.GenerateResource.cache
+C:\Users\franc\Desktop\IT Academy\FloristeriaAntiguo\Floristeria2\obj\Debug\Floristeria2.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\IT Academy\FloristeriaAntiguo\Floristeria2\obj\Debug\Floristeria2.exe
+C:\Users\franc\Desktop\IT Academy\FloristeriaAntiguo\Floristeria2\obj\Debug\Floristeria2.pdb
